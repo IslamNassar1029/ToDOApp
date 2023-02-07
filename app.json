@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "day2",
+    "slug": "day2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconImg.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/smile.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#CAF0F8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
